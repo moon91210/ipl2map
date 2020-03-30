@@ -1,0 +1,11 @@
+{
+  "name": "ipl2map",
+  "version": "1.0.0",
+  "main": "ipl2map.js",
+  "author": "Tails",
+  "license": "MIT",
+  "dependencies": {
+    "math3d": "^0.2.2",
+    "xmlbuilder": "^15.0.0"
+  }
+}
